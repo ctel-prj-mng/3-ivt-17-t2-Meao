@@ -10,4 +10,5 @@ https://github.com/ctel-prj-mng/3-ivt-17-t2-Meao/blob/master/m1.png
 https://github.com/ctel-prj-mng/3-ivt-17-t2-Meao/blob/master/m2.png
 https://github.com/ctel-prj-mng/3-ivt-17-t2-Meao/blob/master/m3.png
 https://github.com/ctel-prj-mng/3-ivt-17-t2-Meao/blob/master/m4.png
+https://github.com/ctel-prj-mng/2-wireframe-130218-Meao/blob/master/wireframe.md
 3. Создание презентации-глоссария на тему «Гибкая методология SCRUM» средствами веб-технологий HTML, CSS, JS (Web-based slideshow) и оформление его в виде веб-сайта с использованием сервиса GitHub Pages.
