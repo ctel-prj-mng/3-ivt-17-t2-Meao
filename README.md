@@ -16,5 +16,8 @@ Merged pull request #7 from Meao/master https://github.com/ctel-prj-mng/scrum-gl
 Result https://ctel-prj-mng.github.io/scrum-glossary/
 # Вариативная СР (ВСР)
 1. Создание прототипа технического задания программного продукта. По результатам создать отчет в репозитории GitHub, оформить его с использованием разметки Markdown 	
+https://github.com/ctel-prj-mng/3-tz-200218-Meao
+ТЗ целиком
+https://docs.google.com/document/d/1BslvwHI9CU4rmIv94exudUbOYRYHwUIRGRJM0sJfRxY/edit?usp=sharing
 2. Создание первоначального макета программного продукта «Гостевая книга» с использованием сервиса визуального проектирования и публичное его представление. 
 
