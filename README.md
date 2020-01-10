@@ -14,3 +14,7 @@ https://github.com/ctel-prj-mng/2-wireframe-130218-Meao/blob/master/wireframe.md
 3. Создание презентации-глоссария на тему «Гибкая методология SCRUM» средствами веб-технологий HTML, CSS, JS (Web-based slideshow) и оформление его в виде веб-сайта с использованием сервиса GitHub Pages.
 Merged pull request #7 from Meao/master https://github.com/ctel-prj-mng/scrum-glossary/commit/e82980b8a850fa361fef3f9d8f10fc2fc60f1117 
 Result https://ctel-prj-mng.github.io/scrum-glossary/
+# Вариативная СР (ВСР)
+1. Создание прототипа технического задания программного продукта. По результатам создать отчет в репозитории GitHub, оформить его с использованием разметки Markdown 	
+2. Создание первоначального макета программного продукта «Гостевая книга» с использованием сервиса визуального проектирования и публичное его представление. 
+
